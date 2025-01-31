@@ -1,6 +1,4 @@
 # Login-form
-https://thrymheim.github.io/Login-form/
-
 Welcome to Login-form! This project is a simple login form built using HTML and CSS. It features a modern design with a responsive layout, making it suitable for various screen sizes.
 
 ## Table of Contents
